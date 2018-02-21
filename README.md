@@ -7,4 +7,4 @@ Fork this project and put an x in each [ ] to check it off.
 
 - [ ] Watch a project.
 
-- [ ] (OPTIONAL) TROLOLOL :trollface:
+- [ ] (OPTIONAL) TROLOLO :trollface:
